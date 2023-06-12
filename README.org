@@ -1,0 +1,10 @@
+* humbler
+
+A Common Lisp Tumblr API interface
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/Shinmera/humbler.git   |
+| commit  | eef324b  |
+| systems | humbler |
+|---------+-------------------------------------------|
+
