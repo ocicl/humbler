@@ -4,7 +4,7 @@ A Common Lisp Tumblr API interface
 
 |---------+-------------------------------------------|
 | source  | git:https://github.com/Shinmera/humbler.git   |
-| commit  | eef324b  |
+| commit  | fdd38fb  |
 | systems | humbler |
 |---------+-------------------------------------------|
 
