@@ -4,6 +4,6 @@ A Common Lisp Tumblr API interface
 
 |---------+---------------------------------------------|
 | source  | git:https://codeberg.org/shinmera/humbler.git |
-| commit  | 0000000                                     |
+| commit  | 1c7d42a                                     |
 | systems | humbler                                     |
 |---------+---------------------------------------------|
